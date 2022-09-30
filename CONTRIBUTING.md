@@ -1,14 +1,11 @@
-## Contribuindo
+# Como contribuir?
+Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, [`abra uma issue`](https://github.com/veras-dan/projeto-pokemon-mapadev-week/issues/new).
 
-Ao contribuir para este repositório, primeiro discuta a alteração que deseja fazer por meio de um problema, e-mail ou qualquer outro método com os proprietários deste repositório antes de fazer uma alteração. Os Contribuidores podem vir de qualquer canto, sem nenhum pré-requisito.
+## Primeiros passos
+1. Faça um **`fork`** do projeto.
+2. Envie seus commits em português.
+3. Solicite a `pull request`.
+4. Insira um pequeno resumo dos links adicionados.
 
-Contribuindo:
-
-- Adiciona recursos que conhece;
-- Atualiza links quando vê que algum link está desatualizado;
-- Cria pull requests;
-- Atualiza pull request quando tem comentários;
-- Pode ajudar implementando as melhoras para as quais já existem issues ou criar issues a serem priorizados;
-
-
-
+## Recomendação (Opcional)
+Para uma melhor semântica nos commits, recomendamos o nosso repositório sobre [`COMMITS SEMÂNTICOS`](https://github.com/veras-dan/padroes-de-commits). Assim ficará mais fácil para avaliar seu `pull request`.
